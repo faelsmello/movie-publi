@@ -1,0 +1,122 @@
+{
+  "configVersion": 1,
+  "timestamp": 1658251990779,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/4.a178c709bfaefb4526ec.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.275b00d7d5a87a467f4f.js",
+        "/manifest.webmanifest",
+        "/polyfills.35a5ca1855eb057f016a.js",
+        "/runtime.f9f6247b81c4fb024fa5.js",
+        "/styles.c5078ef714e14452a309.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Abel-Regular.3843f456cf56d275baf6.ttf",
+        "/Lato-Bold.636be8de934918e38ed9.ttf",
+        "/Lato-Light.c7400fcad9e48ca9043f.ttf",
+        "/Lato-Regular.9d883d540ee2b4de8024.ttf",
+        "/assets/fonts/Abel/Abel-Regular.ttf",
+        "/assets/fonts/Abel/OFL.txt",
+        "/assets/fonts/Lato/Lato-Black.ttf",
+        "/assets/fonts/Lato/Lato-BlackItalic.ttf",
+        "/assets/fonts/Lato/Lato-Bold.ttf",
+        "/assets/fonts/Lato/Lato-BoldItalic.ttf",
+        "/assets/fonts/Lato/Lato-Italic.ttf",
+        "/assets/fonts/Lato/Lato-Light.ttf",
+        "/assets/fonts/Lato/Lato-LightItalic.ttf",
+        "/assets/fonts/Lato/Lato-Regular.ttf",
+        "/assets/fonts/Lato/Lato-Thin.ttf",
+        "/assets/fonts/Lato/Lato-ThinItalic.ttf",
+        "/assets/fonts/Lato/OFL.txt",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/styles/fonts/abel.scss",
+        "/assets/styles/fonts/lato.scss",
+        "/assets/styles/mixins/_mixins.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/4.a178c709bfaefb4526ec.js": "74f2964b72ab2ebc1289b297668f378903e6166d",
+    "/Abel-Regular.3843f456cf56d275baf6.ttf": "5a10c588371618fdcd5555b126121a0fb9ec4c26",
+    "/Lato-Bold.636be8de934918e38ed9.ttf": "542498221d97bee5bdbccf86ee8890bf8e8005c9",
+    "/Lato-Light.c7400fcad9e48ca9043f.ttf": "ad0d178564445a535b15d417f5b18019923d3bab",
+    "/Lato-Regular.9d883d540ee2b4de8024.ttf": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3",
+    "/assets/fonts/Abel/Abel-Regular.ttf": "5a10c588371618fdcd5555b126121a0fb9ec4c26",
+    "/assets/fonts/Abel/OFL.txt": "68d52f80d1d8ba3d82ce49453e6868a0f41a4a1f",
+    "/assets/fonts/Lato/Lato-Black.ttf": "a001eb827743636e04f8efa7d4aeedf0541c46ac",
+    "/assets/fonts/Lato/Lato-BlackItalic.ttf": "b490ec02c69bb74f5b4f487c59e984891c8da71c",
+    "/assets/fonts/Lato/Lato-Bold.ttf": "542498221d97bee5bdbccf86ee8890bf8e8005c9",
+    "/assets/fonts/Lato/Lato-BoldItalic.ttf": "6bf491e78e16d3b9c8a55752e1bd658e15ed7f19",
+    "/assets/fonts/Lato/Lato-Italic.ttf": "190187b720ec2f2ff2e4281237e301000e09673f",
+    "/assets/fonts/Lato/Lato-Light.ttf": "ad0d178564445a535b15d417f5b18019923d3bab",
+    "/assets/fonts/Lato/Lato-LightItalic.ttf": "34388d9a3b64380c9f08d424d0adaa88a0d1650a",
+    "/assets/fonts/Lato/Lato-Regular.ttf": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3",
+    "/assets/fonts/Lato/Lato-Thin.ttf": "07290446bee3f81ce501a3c3dbfde6097c70ca15",
+    "/assets/fonts/Lato/Lato-ThinItalic.ttf": "ff4a1a9fe2dcc41d993f4c5067a3baa1c456ff97",
+    "/assets/fonts/Lato/OFL.txt": "dced1a41948e9968f9026cbc7ddabbf88e65423b",
+    "/assets/icons/icon-128x128.png": "69ad1ec0086290bab7dfd652486f7a122c9cbb59",
+    "/assets/icons/icon-144x144.png": "a05a0658dddf7711ce9344fa0482eec5fe3359bb",
+    "/assets/icons/icon-152x152.png": "bd6c99a9128f2b14b8a3ced7cf1b5bd13809f33d",
+    "/assets/icons/icon-192x192.png": "8e3510a74c5ba06cf384279d2893d26768999bdc",
+    "/assets/icons/icon-384x384.png": "857cbca5ce42bfd4344eaa57447ca3122ddfb0ed",
+    "/assets/icons/icon-512x512.png": "b9611821fbfa65ad53c7519ca482592f2af833a3",
+    "/assets/icons/icon-72x72.png": "e09ac473f4b587068d1014caf42a7efc51403fb4",
+    "/assets/icons/icon-96x96.png": "615016da5a0f2006058e8f0f17cfbc5336aed18e",
+    "/assets/styles/fonts/abel.scss": "54b5e67b52708ded2586ca79d5682c3beaae7ee8",
+    "/assets/styles/fonts/lato.scss": "741b815e3db454e1ba3765a333f408b476164fb6",
+    "/assets/styles/mixins/_mixins.scss": "a66c7c7534be9f84ccf2c499d6f4b781b63a2b32",
+    "/favicon.ico": "e79cc5354236d3a83d4a56bcaa12689ab3b11f87",
+    "/index.html": "b08a029e922e4950326b51988a054b00f1aafa70",
+    "/main.275b00d7d5a87a467f4f.js": "b9d420856fe60835eaacde4556236803c932ff19",
+    "/manifest.webmanifest": "4be6fd05c6ec1e2938c7a1c9a540de0b98dc9fb0",
+    "/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "/runtime.f9f6247b81c4fb024fa5.js": "8cbeff14c51457fdbdb1b701e60f648db3399122",
+    "/styles.c5078ef714e14452a309.css": "62e858dea5c5c9fa2fca40a60155f9df418b1a41"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
